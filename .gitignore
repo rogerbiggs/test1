@@ -43,10 +43,9 @@ Temporary Items
 .apdisk
 
 # ===== RB =====
+
 /*
 !/one
 /one/*
-!/one/*.c
-!/two
-/two/*
-!/two/*.d
+!/one/*.c.txt
+
